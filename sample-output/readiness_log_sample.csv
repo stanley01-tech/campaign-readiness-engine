@@ -1,0 +1,11 @@
+timestamp,overall_status,total_checks,passed,failed,needs_review,sending_domain,subject_line,ai_verdict
+2026-09-11T11:43:02.584Z,BLOCKED,6,4,1,1,goggle.com,hi,"**Overall Status: BLOCKED**
+
+**Failed / Needs Review**
+1. **Unsubscribe Link – FAIL**  
+   *Fix:* Add clear unsubscribe language and a functional link (e.g., “Click here to unsubscribe”) in the email body.
+
+2. **Subject Line Length – NEEDS_REVIEW**  
+   *Fix:* Expand the subject to at least 10 characters (recommended 10‑60). Example: “Hi – Quick update for you”.
+
+All other checks passed. Resolve the two items above before the campaign can be cleared for launch."
